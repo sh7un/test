@@ -17,7 +17,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.sidestore.store</string>
+                    <string>com.SideStore.SideStore</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>bundle-version</key>
